@@ -1,16 +1,15 @@
-## Hi there 👋
+# Hi, I'm Hericles Rozendo! 👋
 
-<!--
-**hericlesfsr/hericlesfsr** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 👨‍💻 About Me
+I am a **Software Engineering student (4th Semester)** and IT Professional focused on **Infrastructure Automation**. I leverage my background in hardware diagnostics and systems support to build efficient, code-driven solutions.
 
-Here are some ideas to get you started:
+- 🔭 Currently developing: **Automated IT Support & Diagnostic Tools**.
+- 🐍 Learning: **Python, Shell Scripting, and Cloud Operations (Azure)**.
+- ⚙️ Skilled in: **Hardware Troubleshooting (Diskpart/UEFI), Windows Automation, and System Compliance**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠 Tech Stack
+- **Languages:** Python, Batch, PowerShell.
+- **Tools:** GitHub, VS Code, Azure AD.
+
+---
+📫 **How to reach me:** [https://www.linkedin.com/in/hericles-rozendo-659876107/]
