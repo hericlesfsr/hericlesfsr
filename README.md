@@ -11,7 +11,7 @@ I am a **Software Engineering student** and IT Professional focused on **Infrast
 - **Languages:** Python, Batch, PowerShell.
 - **Tools: GitHub, VS Code, Azure AD (Entra ID).
 
-### I enjoy turning repetitive IT tasks into simple, reliable automation scripts.
+I enjoy turning repetitive IT tasks into simple, reliable automation scripts.
 
 ---
 📫 **How to reach me:** [https://www.linkedin.com/in/hericles-rozendo-659876107/]
