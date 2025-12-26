@@ -9,7 +9,7 @@ I am a **Software Engineering student** with professional experience in IT suppo
 
 ### 🛠 Tech Stack
 - **Languages:** Python, Batch, PowerShell.
-- **Tools: GitHub, VS Code, Azure AD (Entra ID).
+- **Tools:** GitHub, VS Code, Azure AD (Entra ID).
 
 I enjoy turning repetitive IT tasks into simple, reliable automation scripts.
 
