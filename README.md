@@ -1,17 +1,45 @@
-# Hi, I'm Hericles Rozendo! 👋
+# Hi, I'm Hericles Rozendo 👋
 
-### 👨‍💻 About Me
-I am a **Software Engineering student** with professional experience in IT support, focused on **Infrastructure Automation**. I leverage my background in hardware diagnostics and systems support to build efficient, code-driven solutions.
-
-- 🔭 Currently developing: **Automated IT Support & Diagnostic Tools**.
-- 🐍 Learning: Python automation, Shell scripting, and Azure cloud operations.
-- ⚙️ Skilled in: **Hardware Troubleshooting (Diskpart/UEFI), Windows Automation, and System Compliance**.
-
-### 🛠 Tech Stack
-- **Languages:** Python, Batch, PowerShell.
-- **Tools:** GitHub, VS Code, Azure AD (Entra ID).
-
-I enjoy turning repetitive IT tasks into simple, reliable automation scripts.
+💻 IT Support Specialist | Python Automation  
+⚙️ Infrastructure & Operational Automation Enthusiast  
 
 ---
-📫 **How to reach me:** [https://www.linkedin.com/in/hericles-rozendo-659876107/]
+
+### 👨‍💻 About Me
+
+I am a **Software Engineering student** with professional experience in **IT Support and Infrastructure operations**.
+
+My focus is building **automation tools that simplify operational workflows**, reduce manual work, and improve troubleshooting efficiency.
+
+I combine hands-on **hardware diagnostics and system administration knowledge** with **Python scripting and automation** to create practical tools for real-world IT environments.
+
+---
+
+### 🛠 Tech Stack
+
+**Languages**
+- Python
+- Batch (Windows CMD)
+- PowerShell (basic)
+
+**Tools & Platforms**
+- Git
+- GitHub
+- Visual Studio Code
+- Azure AD (Entra ID)
+- Windows Administration
+
+---
+
+### 🚀 Featured Projects
+
+📦 **IT Automation Scripts**  
+Python-based tools for IT operations, monitoring, diagnostics, and workflow automation.  
+🔗 https://github.com/hericlesfsr/it-automation-scripts
+
+---
+
+📫 **Connect with me**
+
+LinkedIn  
+https://www.linkedin.com/in/hericles-rozendo-659876107/
