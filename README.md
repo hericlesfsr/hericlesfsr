@@ -1,17 +1,17 @@
 # Hi, I'm Hericles Rozendo 👋
 
-💻 IT Support Specialist | Python Automation  
-⚙️ Infrastructure & Operational Automation Enthusiast  
+💻 IT Support Analyst | Python Automation  
+⚙️ Infrastructure | Troubleshooting | Process Improvement
 
 ---
 
 ### 👨‍💻 About Me
 
-I am a **Software Engineering student** with professional experience in **IT Support and Infrastructure operations**.
+I am a Software Engineering student with hands-on experience in IT Support, Infrastructure, and technical operations.
 
-My focus is building **automation tools that simplify operational workflows**, reduce manual work, and improve troubleshooting efficiency.
+My focus is creating practical automation tools that reduce repetitive tasks, improve efficiency, and support daily IT routines.
 
-I combine hands-on **hardware diagnostics and system administration knowledge** with **Python scripting and automation** to create practical tools for real-world IT environments.
+I combine technical support knowledge, Windows environments, troubleshooting, and Python scripting to build real-world solutions.
 
 ---
 
@@ -20,26 +20,29 @@ I combine hands-on **hardware diagnostics and system administration knowledge** 
 **Languages**
 - Python
 - Batch (Windows CMD)
-- PowerShell (basic)
+- PowerShell (Basic)
 
 **Tools & Platforms**
 - Git
 - GitHub
 - Visual Studio Code
+- Microsoft 365
 - Azure AD (Entra ID)
 - Windows Administration
+- ITSM Tools
 
 ---
 
-### 🚀 Featured Projects
+### 🚀 Featured Project
 
 📦 **IT Automation Scripts**  
-Python-based tools for IT operations, monitoring, diagnostics, and workflow automation.  
+Python tools for monitoring, diagnostics, reporting, and operational automation.
+
 🔗 https://github.com/hericlesfsr/it-automation-scripts
 
 ---
 
-📫 **Connect with me**
+### 📫 Connect with Me
 
-LinkedIn  
-https://www.linkedin.com/in/hericles-rozendo-659876107/
+💼 LinkedIn  
+https://linkedin.com/in/hericles-rozendo
